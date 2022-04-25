@@ -1,0 +1,18 @@
+.alert{
+    width: 50%;
+    background: lightgoldenrodyellow;
+    border-radius: 3px;
+    margin: 10px auto;
+    padding: 10px; 
+}
+.msg_error{
+    color: #e65656;
+
+}
+.msg_save{
+    color: #126e00;
+    
+}
+.alert p{
+    padding: 10px; 
+}
